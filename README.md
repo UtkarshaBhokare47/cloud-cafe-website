@@ -58,8 +58,7 @@ Web Application
 
 ### Application Load Balancer
 
-![Application Load Balancer](images/alb.png)
-
+![Application Load Balancer](images/application-load-balancer.png)
 ---
 
 ## 🔍 Health Check
@@ -71,7 +70,7 @@ ALB continuously checks the health of registered EC2 instances.
 
 ### Target Group
 
-![Target Group](images/target-group.png)
+![Target Group](images/health-check.png)
 
 
 ---
