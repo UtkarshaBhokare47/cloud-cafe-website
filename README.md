@@ -91,6 +91,11 @@ ALB continuously checks the health of registered EC2 instances.
 
 The Cloud Café website is successfully accessible through the Application Load Balancer DNS URL.
 
+🔗 **Live Website URL:**  
+
+http://CloudCafe-ALB-1167892560.ap-south-1.elb.amazonaws.com
+
+
 ---
 
 ## 👩‍💻 Author
